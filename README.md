@@ -33,47 +33,17 @@ Please find attahced beside to each typescript file a documentation where I deta
 ### Installing
 You do not need to install anything
 
-### About me
-Feel free to visit the following links to get to know more about me:
-
-```
-https://eimardsobrinozurera.com/#/home
-```
-
-Linkedin
-
-```
-linkedin.com/in/eimardsobrinozurera
-```
-
-Get to know my developer story through StackOverflow
-
-```
-https://stackoverflow.com/story/eimard
-```
-
-Download my app Conquality
-
-```
-https://play.google.com/store/apps/details?id=com.eszsoftware.conquality
-```
-
-Download my game JUMP into interview GAME
-
-```
-https://play.google.com/store/apps/details?id=com.jumptipgame
-```
-
-
-## Authors
+## Author
 
 * **Eimard Sobrino Zurera** 
 
-Have a look at his:
-- linkeidn profile [linkedin](linkedin.com/in/eimardsobrinozurera) 
+Feel free to visit the following links to get to know more about me, my ambitions and goals:
 
-- official web site [eszSoftware](https://eimardsobrinozurera.com/#/home) 
+- Linkedin profile [linkedin](linkedin.com/in/eimardsobrinozurera) 
+- Personal web site [eszSoftware](https://eimardsobrinozurera.com/#/home) 
 - [developerStory](https://stackoverflow.com/story/eimard) 
+- CEO && Cofounder at CONQUALITY [Download my app Conquality](https://play.google.com/store/apps/details?id=com.eszsoftware.conquality) 
+- [Download my game JUMP into interview GAME](https://play.google.com/store/apps/details?id=com.jumptipgame) 
 
 ## License
 
