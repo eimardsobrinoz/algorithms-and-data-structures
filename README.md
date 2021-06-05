@@ -14,6 +14,7 @@ Algorithms and Data structures implemented with Typescript
 - Binary Heap
 - RB Tree
 - AVL Tree
+- Disjktra | Shortest path algorithm
 
 
 ### Prerequisites
