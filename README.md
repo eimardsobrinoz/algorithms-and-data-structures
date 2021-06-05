@@ -1,4 +1,4 @@
-# ALGORITHMS AND DATA STRUCTURES
+# ALGORITHMS && DATA STRUCTURES
 
 This project was created to practice and learn new Algorithms and Data structures using Typescript.
 
