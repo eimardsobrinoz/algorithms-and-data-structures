@@ -27,8 +27,10 @@
 */
 
 function isUniqueChars(word: string): boolean {
+  let length: string = word.length;
+  if (length > 127) return false;
   const char_set: Set<string> = new Set<string>();
-  for(let i = word.length -1; i >= 0; i--) {
+  for(let i = length - 1; i >= 0; i--) {
     const element: string = word.charAt(i);
     if (char_set.has(element)) return false;
     char_set.add(element);
