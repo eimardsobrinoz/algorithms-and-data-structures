@@ -27,16 +27,14 @@
 */
 
 function isUniqueChars(word: string): boolean {
-    const arrayWord: Array<string> = [...word];
-    const char_set: Set<string> = new Set<string>();
-    while(arrayWord.length) {
-      const element: string = arrayWord.shift();
-      if (char_set.has(element)) return false;
-      char_set.add(element);
-    }
-    return true;
+  const char_set: Set<string> = new Set<string>();
+  for(let i = word.length -1; i >= 0; i--) {
+    const element: string = word.charAt(i);
+    if (char_set.has(element)) return false;
+    char_set.add(element);
   }
-  
-  console.log('Does "Hello" has all unique characters?', isUniqueChars('Hello') ? 'Yes' : 'No');
-  console.log('Does "World" has all unique characters?', isUniqueChars('World') ? 'Yes' : 'No' );
-  
+  return true;
+}
+
+console.log('Does "Hello" has all unique characters?', isUniqueChars('Hello') ? 'Yes' : 'No');
+console.log('Does "World" has all unique characters?', isUniqueChars('World') ? 'Yes' : 'No' );
